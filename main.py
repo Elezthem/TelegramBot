@@ -108,8 +108,8 @@ def info(message):
 
 #executor.start_polling(dp)
 
-#bot = telebot.TeleBot('6125916746:AAGoTr1ZPooXOdu-g2IgWO92XUQ8rJjTONs')
-#API = '761791ed81724a2e1a27ca882459df37'
+#bot = telebot.TeleBot('')
+#API = ''
 #name = None
 #currency = CurrencyConverter()
 #amount = 0
